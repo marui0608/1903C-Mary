@@ -1,2 +1,2 @@
-master分支
-我修复了issue-101这个bug
+测试分支的readme(非Fast forward)
+issue-100
